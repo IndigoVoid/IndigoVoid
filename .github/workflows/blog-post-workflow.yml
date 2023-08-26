@@ -16,4 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.indigovoid.github.io/"
+          feed_list: "https://www.indigovoid.github.io/atom.xml"
+          max_post_count: 3
