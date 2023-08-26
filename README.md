@@ -5,7 +5,7 @@
 ![:name](https://count.getloli.com/get/@IndigoVoid?theme=moebooru)
 
 
-### Blog posts
+### Latest Blog Posts :star:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
