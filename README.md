@@ -7,6 +7,9 @@
 
 ### Latest Blog Posts ✨
 <!-- BLOG-POST-LIST:START -->
+- [一道积分算一天——量子力学篇](http://yoursite.com/2020/12/03/qmIntegrate/)
+- [一道积分算一天——电磁学篇](http://yoursite.com/2020/09/23/%E7%A7%AF%E5%88%86/)
+- [旋转矩阵](http://yoursite.com/2020/07/26/%E6%97%8B%E8%BD%AC%E7%9F%A9%E9%98%B5/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
