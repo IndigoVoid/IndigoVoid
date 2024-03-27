@@ -7,9 +7,9 @@
 
 ### Latest Blog Posts ✨
 <!-- BLOG-POST-LIST:START -->
+- [理论力学习题第一章](http://yoursite.com/2024/03/27/%E5%88%98%E5%B7%9D%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98/)
 - [概率论发展史与物理](http://yoursite.com/2023/12/27/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%8F%91%E5%B1%95%E5%8F%B2/)
 - [一道积分算一天——量子力学篇](http://yoursite.com/2020/12/03/qmIntegrate/)
-- [一道积分算一天——电磁学篇](http://yoursite.com/2020/09/23/%E7%A7%AF%E5%88%86/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
