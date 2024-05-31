@@ -7,9 +7,9 @@
 
 ### Latest Blog Posts ✨
 <!-- BLOG-POST-LIST:START -->
+- [旋转矩阵](http://yoursite.com/2024/05/31/%E6%97%8B%E8%BD%AC%E7%9F%A9%E9%98%B5-1/)
 - [概率论与物理 1 ——概率论发展史](http://yoursite.com/2024/05/10/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%8F%91%E5%B1%95%E5%8F%B2/)
 - [一道积分算一天——量子力学篇](http://yoursite.com/2020/12/03/qmIntegrate/)
-- [一道积分算一天——电磁学篇](http://yoursite.com/2020/09/23/%E7%A7%AF%E5%88%86/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
